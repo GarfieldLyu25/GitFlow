@@ -1,7 +1,5 @@
-public class spring
-{
-	public static void main(String[] args)
-	{
-        System.out.println("feature b 20251130");
+public class Spring {
+    public static void main(String[] args) {
+        System.out.println("hello gitflow，开发了featureA功能");
     }
 }
